@@ -8,20 +8,20 @@ optimize risk Classification
 
 
 Approach:
-Regression:
+1.Regression:
 - Develop regression models to predict insurance premium pricing based on various factors such as
 age, location, coverage type, and previous claims history.
 - Explore the relationship between different variables and premiums to optimize pricing strategies.
 - Provide recommendations for personalized premium adjustments, leading to improved customer
 satisfaction and retention.
-Classification:
+2.Classification:
 - Implement a classification model to categorize insurance claims into predefined classes, such as
 fraudulent or legitimate.
 - Utilize machine learning algorithms to predict the likelihood of a claim being fraudulent based on
 historical data.
 - Enhance fraud detection capabilities to reduce financial losses and improve the accuracy of claim
 assessments.
-Clustering:
+3.Clustering:
 - Apply clustering algorithms to group policyholders based on similar characteristics and behavior.
 - Identify customer segments with common insurance needs and preferences.
 - Tailor marketing strategies and product offerings to specific clusters, enhancing customer
